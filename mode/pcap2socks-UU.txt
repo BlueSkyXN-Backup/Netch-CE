@@ -1,0 +1,2 @@
+# [pcap2socks] [Bypass China] UU(172.24.?.?) Preset , 6, 1
+--preset uu
