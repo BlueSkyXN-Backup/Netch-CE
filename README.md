@@ -1,4 +1,8 @@
 # Netch-CE
-Netch V1.8.1 Collector's Edition
+Netch  Collector's Edition
 
-Netch 1.8.1 典藏版
+v1.8.1 源码 https://github.com/netchx/netch/releases/tag/1.8.1
+
+使用的是TUNTAP，性能很差很差，这个在v1.8.3被换为 WinTUN (aiocloud/tun2socks) 同时取消了本地HTTP代理和网页代理模式，WinTUN性能不错
+
+v1.7.3-S 来自 https://github.com/AmazingDM/Netch-ForOwnUse

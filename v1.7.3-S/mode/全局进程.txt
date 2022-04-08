@@ -1,0 +1,15 @@
+# 全局进程
+.*
+!Netch.exe
+!NetchUpdater.exe
+!ck-client.exe
+!Privoxy.exe
+!Shadowsocks.exe
+!ShadowsocksR.exe
+!simple-obfs.exe
+!Trojan.exe
+!tun2socks.exe
+!v2ctl.exe
+!v2ray-plugin.exe
+!v2ray.exe
+!tapinstall.exe
